@@ -1,0 +1,23 @@
+body {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image: url(retro-futuristic-landscape-background-free-vector.jpg);
+  color: lightskyblue;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  font-weight: bold;
+}
+.redes:hover {
+  color: purple;
+  background-color: lightskyblue;
+}
